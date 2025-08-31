@@ -1,5 +1,17 @@
 # 📝 Sticky Notes  
 
+# 1️⃣ Clone the repository
+git clone https://github.com/Prachi9506/Sticky-Notes
+
+# 2️⃣ Move into the project folder
+cd Sticky-Notes
+
+# 3️⃣ Install dependencies
+npm install
+
+# 4️⃣ Run the development server
+npm run dev
+
 ## ✨ Key Features  
 - 🟨 **Create Notes** → click a color button
 - 🎯 **Drag & Drop** → move notes freely on the screen  
@@ -25,3 +37,4 @@
 - 🔢 **Note counter** → shows how many notes you have  
 
 ---
+
