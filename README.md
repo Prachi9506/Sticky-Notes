@@ -1,9 +1,8 @@
 # 📝 Sticky Notes  
 ##  Screenshot
 
-![Sticky Notes App Screenshot](https://raw.githubusercontent.com/Prachi9506/Sticky-Notes/main/Screenshot%202025-08-31%20183622.png)
+![Sticky Notes App Screenshot](https://github.com/Prachi9506/Sticky-Notes/blob/main/Screenshot%202025-08-31%20183622.png)
 
-Screenshot 2025-08-31 183622.png
 ### Installation
 
 1. **Clone the repository**
@@ -51,6 +50,7 @@ Screenshot 2025-08-31 183622.png
 - 🔢 **Note counter** → shows how many notes you have  
 
 ---
+
 
 
 
