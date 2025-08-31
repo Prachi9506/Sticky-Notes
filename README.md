@@ -1,5 +1,8 @@
 # 📝 Sticky Notes  
 
+## 🚀 Setup & Installation  
+
+```bash
 # 1️⃣ Clone the repository
 git clone https://github.com/Prachi9506/Sticky-Notes
 
@@ -37,4 +40,5 @@ npm run dev
 - 🔢 **Note counter** → shows how many notes you have  
 
 ---
+
 
