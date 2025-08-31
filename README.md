@@ -2,18 +2,28 @@
 
 ## 🚀 Setup & Installation  
 
-```bash
-# 1️⃣ Clone the repository
-git clone https://github.com/Prachi9506/Sticky-Notes
 
-# 2️⃣ Move into the project folder
-cd Sticky-Notes
+### Installation
 
-# 3️⃣ Install dependencies
-npm install
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Prachi9506/Sticky-Notes
+   cd Sticky-Notes
+   ```
 
-# 4️⃣ Run the development server
-npm run dev
+2. **Install dependencies**
+   ```bash
+   npm i
+   ```
+
+3. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+
+4. **Open your browser**
+   Navigate to `http://localhost:5173` to view the application
+
 
 ## ✨ Key Features  
 - 🟨 **Create Notes** → click a color button
