@@ -1,7 +1,9 @@
 import React from 'react';
 import { cn } from '@/lib/utils';
 
-
+interface ColorPickerProps {
+  onColorSelect: (color: 'yellow' | 'pink' | 'green' | 'blue') => void;
+}
 
 const colors = [
   { name: 'yellow', label: 'Yellow', class: 'bg-note-yellow border-note-yellow-dark' },
@@ -31,3 +33,4 @@ export const ColorPicker: React.FC<ColorPickerProps> = ({ onColorSelect }) => {
   );
 
 };
+
