@@ -5,7 +5,12 @@ interface ColorPickerProps {
   onColorSelect: (color: 'yellow' | 'pink' | 'green' | 'blue') => void;
 }
 
-
+const colors = [
+  { name: 'yellow', label: 'Yellow', class: 'bg-note-yellow border-note-yellow-dark' },
+  { name: 'pink', label: 'Pink', class: 'bg-note-pink border-note-pink-dark' },
+  { name: 'green', label: 'Green', class: 'bg-note-green border-note-green-dark' },
+  { name: 'blue', label: 'Blue', class: 'bg-note-blue border-note-blue-dark' },
+] as const;
 
 export const ColorPicker: React.FC<ColorPickerProps> = ({ onColorSelect }) => {
   return (
@@ -28,5 +33,6 @@ export const ColorPicker: React.FC<ColorPickerProps> = ({ onColorSelect }) => {
   );
 
 };
+
 
 
