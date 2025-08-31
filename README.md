@@ -1,7 +1,5 @@
 # 📝 Sticky Notes  
 
-## 🚀 Setup & Installation  
-
 
 ### Installation
 
@@ -50,5 +48,6 @@
 - 🔢 **Note counter** → shows how many notes you have  
 
 ---
+
 
 
