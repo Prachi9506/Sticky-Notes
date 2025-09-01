@@ -1,4 +1,3 @@
-import * as React from "react"
 
 import type {
   ToastActionElement,
@@ -189,3 +188,4 @@ function useToast() {
 }
 
 export { useToast, toast }
+
