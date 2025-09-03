@@ -4,7 +4,7 @@
 
 /* Sticky Notes Design  System */ 
  
-@layer base {
+@layer base { 
   :root {
     --background: 42 100% 97%;
     --foreground: 222.2 84% 4.9%;
@@ -132,6 +132,7 @@
   }
 
 }
+
 
 
 
