@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 /* Sticky Notes Design  System */ 
-
+ 
 @layer base {
   :root {
     --background: 42 100% 97%;
@@ -132,6 +132,7 @@
   }
 
 }
+
 
 
 
