@@ -1,5 +1,6 @@
 @tailwind base;
 @tailwind components;
+@tailwind utilities;
 
 /* Sticky Notes Design System */
 
@@ -131,6 +132,7 @@
   }
 
 }
+
 
 
 
