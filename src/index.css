@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Sticky Notes Design  System */ 
+/* Sticky Notes Design  System */  
  
 @layer base {  
   :root {
@@ -132,6 +132,7 @@
   }
 
 }
+
 
 
 
