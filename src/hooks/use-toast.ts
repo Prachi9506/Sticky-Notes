@@ -12,7 +12,7 @@ type ToasterToast = ToastProps & {
   id: string 
   title?: React.ReactNode
   description?: React.ReactNode  
-  action?: ToastActionElement
+  action?: ToastActionElement 
 }
 
 const actionTypes = {
@@ -189,6 +189,7 @@ function useToast() {
 }
 
 export { useToast, toast }
+
 
 
 
